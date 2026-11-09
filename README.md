@@ -1,4 +1,4 @@
-# 📊 Infrastructure Monitoring Solution Using Prometheus & Grafana
+# 📊 Infrastructure Monitoring Using Prometheus & Grafana
 
 A monitoring solution on AWS EC2 that brings server resource metrics and website availability checks together in Grafana dashboards. It helps teams understand system behavior and investigate performance issues with clearer context.
 
